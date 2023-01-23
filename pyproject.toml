@@ -116,7 +116,7 @@ python                   = "^3.8"
 tomlkit                  = ">=0.10, <1"
 typer                    = ">=0.4, <1"
 requests                 = "^2.27"
-grayskull                = "^1.1"
+grayskull                = ">=1.1,<3.0"
 
 [tool.poetry.dev-dependencies]
 bandit                   = "^1.7"
